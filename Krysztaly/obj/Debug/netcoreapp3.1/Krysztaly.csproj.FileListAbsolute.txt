@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Krysztaly\bin\Debug\netcoreapp3.1\Krysztaly.exe
+C:\Users\Asus\source\repos\Krysztaly\bin\Debug\netcoreapp3.1\Krysztaly.deps.json
+C:\Users\Asus\source\repos\Krysztaly\bin\Debug\netcoreapp3.1\Krysztaly.runtimeconfig.json
+C:\Users\Asus\source\repos\Krysztaly\bin\Debug\netcoreapp3.1\Krysztaly.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Krysztaly\bin\Debug\netcoreapp3.1\Krysztaly.dll
+C:\Users\Asus\source\repos\Krysztaly\bin\Debug\netcoreapp3.1\Krysztaly.pdb
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.dll
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.pdb
+C:\Users\Asus\source\repos\Krysztaly\obj\Debug\netcoreapp3.1\Krysztaly.genruntimeconfig.cache
